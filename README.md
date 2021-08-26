@@ -1,2 +1,2 @@
-# Projeto2_Semana-8_Reprograma
-Week: 8
+# On12-s8-ProjetoGuiado-GET
+Turma Online 12 | Back-end | 2021 | Projeto Prático com API - Método: GET
